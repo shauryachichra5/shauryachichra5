@@ -10,11 +10,11 @@
 - GitHub | Cloud
 
 ## 📈 GitHub Stats
-Personal email
+#### Personal email
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
 
-Work email
-- Commits: 204 (Detailed stats soon..)
+#### Work email
+- Commits: 204 (Detailed stats soon😅..)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
