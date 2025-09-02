@@ -10,7 +10,7 @@
 - GitHub | Cloud
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
