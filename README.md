@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Shaurya 👋
+- 🔭 I’m currently working on a Generative AI project at Debound
+- 🌱 Learning new Generative AI use-cases everyday
+- 📈 Expanding my knowledge in backend with API development
+- 📫 Reach me at: shauryachichra@gmail.com
 
-<!--
-**shauryachichra5/shauryachichra5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Python | MongoDB | FastAPI
+- LLMs | RAG | Vector DBs | Langchain
+- GitHub | Cloud
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
