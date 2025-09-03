@@ -17,7 +17,7 @@
 - Commits: 173 
 - PRs: 18
 - Issues: 17
-![GitHub Stats](github-readme-stats-shaurya-chichras-projects.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats-shaurya-chichras-projects.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
