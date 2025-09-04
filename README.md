@@ -14,6 +14,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
 
 #### Work email (Detailed stats soon😅..)
+![My GitHub Stats](private-stats.svg)
 - Commits: 173 
 - PRs: 18
 - Issues: 17
