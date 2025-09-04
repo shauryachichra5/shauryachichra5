@@ -13,11 +13,8 @@
 #### Personal email
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryachichra5&show_icons=true&theme=dark&count_private=true)
 
-#### Work email (Detailed stats soon😅..)
+#### Work email (Hard-coded stats😅..)
 ![My GitHub Stats](private-stats.svg)
-- Commits: 173 
-- PRs: 18
-- Issues: 17
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
