@@ -7,7 +7,7 @@
 ## 🚀 Skills
 - Python | MongoDB | FastAPI
 - LLMs | RAG | Vector DBs | Langchain
-- GitHub | Cloud
+- GitHub | Cloud | Docker | Render
 
 ## 📈 GitHub Stats
 #### Personal email
