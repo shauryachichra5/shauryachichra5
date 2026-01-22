@@ -1,5 +1,5 @@
 # Hi there, I'm Shaurya 👋
-- 🔭 I’m currently working on a Generative AI project at Debound
+- 🔭 I’m currently working as GenAI backend developer (AEH level-11) at Accenture
 - 🌱 Learning new Generative AI use-cases everyday
 - 📈 Expanding my knowledge in backend with API development
 - 📫 Reach me at: shauryachichra@gmail.com
