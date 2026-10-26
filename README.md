@@ -8,6 +8,7 @@
 - Python | MongoDB | FastAPI
 - LLMs | RAG | Vector DBs | Langchain
 - GitHub | Cloud | Docker | Render
+- AWS Lambda, Bedrock, DynamoDB, S3, Connect
 
 ## 📈 GitHub Stats
 #### Personal email
